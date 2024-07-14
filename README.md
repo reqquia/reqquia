@@ -5,7 +5,7 @@ Owner @reccode.tech
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Réquia-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-réquia-8666961a1/)](https://www.linkedin.com/in/lucas-réquia-8666961a1/) 
 [![Gmail Badge](https://img.shields.io/badge/-contatolucasrequia@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contatolucasrequia@gmail.com)](mailto:contatolucasrequia@gmail.com)
 
-Enthusiast of the best web & mobile development technologies.
+Você vai precisar passar horas e horas todos os dias, por pelo menos uns 10 anos. Se você fizer isso você será um dos melhores em alguma coisa. Mas o único jeito de se conseguir fazer algo por horas e horas é se você encontrar algo em que realmente esteja interessado em fazer!
 
-"Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."
+Linus Torvalds
 
