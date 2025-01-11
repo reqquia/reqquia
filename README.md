@@ -1,5 +1,5 @@
 # Lucas Réquia
-Owner @reccode.tech
+sr backend engineer @motorleads
 
 [![Twitter Badge](https://img.shields.io/badge/-@reqquia-00875f?style=flat-square&labelColor=00875f&logo=twitter&logoColor=white&link=https://twitter.com/reqquia)](https://twitter.com/reqquia) 
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Réquia-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-réquia-8666961a1/)](https://www.linkedin.com/in/lucas-réquia-8666961a1/) 
